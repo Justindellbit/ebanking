@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-EbankingApplication<ebanking>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.bank.ebanking.EbankingApplication",
+            "projectName": "ebanking",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
